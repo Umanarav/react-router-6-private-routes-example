@@ -2,6 +2,8 @@
 
 ## THIS IS NOT MY WORK THE ORIGINAL REPO EXISTS HERE: (https://github.com/thebikashweb/react-router-6)
 
+i added buttons to allow an admin login and a user login
+
 ## [Video Tutorial](https://youtu.be/3kNpIbTEuos)
 ## [Demo link ](https://bw-react-router.netlify.app)
 
